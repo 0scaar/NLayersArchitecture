@@ -2,6 +2,6 @@
 {
     public class Connection
     {
-        public static string stringConnection = @"Data Source=localhost;Initial Catalog=Ventas;user=sa;pwd=abcDEF123#"; 
+        public static string stringConnection = @"Data Source=localhost;Initial Catalog=Sales;user=sa;pwd=abcDEF123#"; 
     }
 }
